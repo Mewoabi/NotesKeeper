@@ -1,0 +1,40 @@
+{
+  "Notes": [
+    {
+      "id": 1,
+      "title": "Some fries",
+      "details": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos et, explicabo ipsa provident aspernatur necessitatibus expedita omnis amet? Iste atque unde rerum repellat voluptates deleniti consequuntur officia soluta, accusantium fugiat?",
+      "category": "reminders"
+    },
+    {
+      "id": 3,
+      "title": "go to the bank",
+      "details": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos et, explicabo ipsa provident aspernatur necessitatibus expedita omnis amet? Iste atque unde rerum repellat voluptates deleniti consequuntur officia soluta, accusantium fugiat?",
+      "category": "money"
+    },
+    {
+      "title": "Go to the farm",
+      "details": "I have to go to the farm and carry some bags of cocoyams that mother left for me before preparing and going for sports with my friends ",
+      "category": "todos",
+      "id": 5
+    },
+    {
+      "title": "What is lorem",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolorum ab, ducimus, optio soluta quidem cum placeat excepturi vitae, veritatis quis deleniti temporibus sunt quam totam maiores. Aspernatur eos eius aut minima magni dignissimos distinctio nihil dicta qui, possimus perferendis accusamus! Ex maiores excepturi voluptate suscipit sint, architecto delectus ipsum fugiat minus saepe quia quod eum reiciendis omnis maxime enim esse, dolor quasi vitae inventore. Eius iusto at doloremque dolorem.",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "More on lorem",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolorum ab, ducimus, optio soluta quidem cum placeat excepturi vitae, veritatis quis deleniti temporibus sunt quam totam maiores. Aspernatur eos eius aut minima magni dignissimos distinctio nihil dicta qui, possimus perferendis accusamus! Ex maiores excepturi voluptate suscipit sint, architecto delectus ipsum fugiat minus saepe quia quod eum reiciendis omnis maxime enim esse, dolor quasi vitae inventore. Eius iusto at doloremque dolorem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolorum ab, ducimus, optio soluta quidem cum placeat excepturi vitae, veritatis quis deleniti temporibus sunt quam totam maiores. Aspernatur eos eius aut minima magni dignissimos distinctio nihil dicta qui, possimus perferendis accusamus! Ex maiores excepturi voluptate suscipit sint, architecto delectus ipsum fugiat minus saepe quia quod eum reiciendis omnis maxime enim esse, dolor quasi vitae inventore. Eius iusto at doloremque dolorem.",
+      "category": "reminders",
+      "id": 7
+    },
+    {
+      "title": "This again",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolorum ab, ducimus, optio soluta quidem cum placeat excepturi vitae, veritatis quis deleniti temporibus sunt quam totam maiores. Aspernatur eos eius aut minima magni dignissimos distinctio nihil dicta qui, possimus perferendis accusamus! Ex maiores excepturi voluptate suscipit sint, ",
+      "category": "work",
+      "id": 8
+    }
+  ]
+}

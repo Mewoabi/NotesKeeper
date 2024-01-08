@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    padding-right: 30px;
+    background-color:#3f51b5;
+    width: 100%; 
+}
+
+nav div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+nav div a {
+    color: white;
+    margin-right: 20px;
+}
+
+ a:hover {
+     color: #1b57ab;
+}
